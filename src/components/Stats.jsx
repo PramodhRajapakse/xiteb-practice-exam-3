@@ -6,9 +6,9 @@ const stats = [
 ];
 
 const StatCard = ({ label, value }) => (
-  <div className="d-flex flex-row align-items-center flex-fill p-4 m-2 justify-content-between">
+  <div className="d-flex flex-row align-items-center flex-fill p-4 m-2">
     <span className="fs-1 fw-bold text-dark me-2">{value}</span>
-    <span className="fs-6 text-dark">{label}</span>
+    <span className="fs-6 text-dark text-wrap" style={{ width: '6rem' }}>{label}</span>
   </div>
 );
 
