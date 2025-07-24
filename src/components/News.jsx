@@ -40,7 +40,7 @@ const News = () => {
           const [day, month] = item.date.split(" ");
           return (
             <div className="col-md-6" key={idx}>
-              <div className="d-flex bg-light shadow-sm overflow-hidden h-100">
+              <div className="d-flex bg-light shadow-sm overflow-hidden" style={{ height: "160px" }}>
 
                 <div className="position-relative" style={{ minWidth: "150px" }}>
                   <img
