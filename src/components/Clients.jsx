@@ -10,7 +10,10 @@ const clientLogos = [
 
 
 const Clients = () => (
-  <section className="d-flex justify-content-center align-items-center py-5">
+  <section
+    className="d-flex justify-content-between align-items-center py-5"
+    style={{ maxWidth: '900px', margin: '0 auto' }}
+  >
     {clientLogos.map((logo, idx) => (
       <img
         key={idx}
