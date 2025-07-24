@@ -26,8 +26,8 @@ const Welcome = () => {
           </Col>
           <Col md={6}>
             <h2 className="mb-3 fw-bold" style={{ fontSize: '2.5rem' }}>
-              TransMax Logistics Around{' '}
-              <span style={{ color: '#fa7e4d' }}>the World</span>
+              TransMax Logistics<br/> Around
+              <span style={{ color: '#fa7e4d' }}> the World</span>
             </h2>
             <p className="mb-4" style={{ fontSize: '1.25rem' }}>
               We provide world-class logistics, transportation, and delivery
@@ -39,7 +39,7 @@ const Welcome = () => {
               of products proceeds consistently and supply chains stay lean and
               streamlined for progress.
             </p>
-            <Button variant="dark" className="px-4 py-2 rounded-0 fw-semibold" style={{ fontSize: '1.1rem' }}>
+            <Button variant="secondary" className="px-4 py-2 rounded-0 fw-semibold" style={{ fontSize: '1.1rem' }}>
               More About Us
             </Button>
           </Col>
