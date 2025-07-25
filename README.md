@@ -1,13 +1,65 @@
-# React + Vite
+# XITEB - FRONTEND PRACTICAL TASK
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## ✅ Project Overview
 
-Currently, two official plugins are available:
+This is a responsive landing page built using React.js + Vite template and Bootstrap 5, for a shipping or logistics company. The page features:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Hero section with full-width background image and an overlapping content box
+- Latest News cards with Bootstrap grid
+- Newsletter subscription section
+- Footer with four content columns (About Us, Latest News, Customer Service, Contact)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# xiteb-practice-exam-3
+## 🕒 Time Breakdown
+
+| Task                   | Time Spent |
+|------------------------|------------|
+| HTML/CSS Development   | 13 hours   |
+| Testing/Responsiveness | 1 hour     |
+| README Documentation   | 30 minutes |
+
+---
+
+## 🧱 Tech Stack
+
+- HTML5
+- CSS3
+- React.js + Vite
+- Bootstrap 5
+- Responsive layout principles
+
+
+## ▶️ How to Run the Project
+
+
+1. Unzip the project folder.
+2. Open a terminal in the root directory.
+3. Install dependencies by running:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open your browser and go to [http://localhost:5173](http://localhost:5173) to view the project.
+
+> Make sure you have **Node.js** and **npm** installed on your machine.
+
+---
+
+## 📩 Submission Instructions
+
+All files have been included in this zipped project folder:
+
+- ✅ `index.html`
+- ✅ `assets/`
+- ✅ `README.md`
+
+
+Thank you for reviewing my work!
